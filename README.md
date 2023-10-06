@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">Estou cursando Gestão da Tecnologia da Informação pela UniFael.</p>
+<p align="left">Formei em Gestão da Tecnologia da Informação pela UniFael.</p>
 
 ###
 
-<p align="left">E também faço  o curso técnico em Desenvolvimento de Sistemas pelo Senac.</p>
+<p align="left">Estou cursando técnico em Desenvolvimento de Sistemas pela escola técnica Proz educação.</p>
 
 ###
 
