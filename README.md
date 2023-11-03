@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Sou estudante de T.I , entusiasta por ciência e tecnologia, estou sempre busca de novos conhecimentos e aprendizados, e procuro pela primeira oportunidade de trabalho como programdor.</h4>
+<h4 align="left">Sou estudante de T.I , entusiasta por ciência e tecnologia, estou sempre busca de novos conhecimentos e aprendizados.</h4>
 
 ###
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="38" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="38" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="38" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="38" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/php-original.svg" height="30" width="38" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="38" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="38" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="38" alt="vscode logo"  />
