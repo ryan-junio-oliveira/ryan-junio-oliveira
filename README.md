@@ -36,7 +36,7 @@
 
 <hr>
 
-<h3 align="center">Additional Information:</h3>
+<!--<h3 align="center">Additional Information:</h3>
 
 - **Experience:** Details about your responsibilities and achievements in your role as a Systems Development Analyst at Dok Solutions Systems and Document Management.
 - **Education:** More details about your graduation in Information Technology Management from University Center UNIFAEL, such as academic achievements or relevant projects.
@@ -45,4 +45,4 @@
 - **Interests and Hobbies:** Information about your interests outside of technology, such as hobbies, sports, volunteering activities, etc.
 - **Professional Goals:** Your short-term and long-term career goals, and how you hope to achieve them.
 
-Adding this information can provide a more comprehensive view of who you are as a professional and person.
+Adding this information can provide a more comprehensive view of who you are as a professional and person.-->
