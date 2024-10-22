@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Ryan Junio Oliveira</h1>
+<h2 align="center">Hi 👋, I'm Ryan Junio Oliveira</h2>
 <p align="center">Junior Web Developer</p>
 <p align="center">Systems Development Analyst at Dok Solutions Systems and Document Management</p>
 <p align="center">Graduated in Information Technology Management from University Center UNIFAEL</p>
@@ -17,7 +17,7 @@
 
 
 <hr>
-<h2 align="center">Statistics</h2>
+<h3 align="center">Statistics</h3>
 
 ![Ryan Junio Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-junio-oliveira&show_icons=true&theme=radical)
 </br>
@@ -27,7 +27,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryan-junio-oliveira&theme=radical)](https://git.io/streak-stats)
 
 <hr>
-<h2 align="center">Trophies</h2>
+<h3 align="center">Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryan-junio-oliveira&theme=radical)](https://github.com/ryan-junio-oliveira/github-profile-trophy)
 
@@ -35,7 +35,7 @@
 
 <div>
   <hr>
-  <h2 align="center">Languages and Tools:</h2>
+  <h3 align="center">Languages and Tools:</h3>
   <p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -57,7 +57,7 @@
 
 <div>
   <hr>
-  <h2 align="center">Connect with me:</h2>
+  <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/ryan-oliveira-717a13235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryan-oliveira-717a13235" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ryan_oliveira_p1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ryan_oliveira_p1" height="30" width="40" /></a>
