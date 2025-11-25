@@ -31,10 +31,10 @@ Always excited to collaborate and innovate!
 ## 📊 GitHub Statistics
 
 ### GitHub Stats
-<img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ryan-junio-oliveira&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-junio-oliveira&show_icons=true&theme=radical"/>
 
 ### Top Languages
-<img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ryan-junio-oliveira&layout=donut"/>
+<img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ryan-junio-oliveira&layout=donut&theme=radical"/>
 
 ### GitHub Streak
 <img height="180em" src="https://streak-stats.demolab.com/?user=ryan-junio-oliveira"/>
